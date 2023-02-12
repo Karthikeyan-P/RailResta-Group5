@@ -1,0 +1,39 @@
+{
+"RegisteredUsers": [
+    {
+        "id": 1,
+        "username": "johndoe",
+        "email": "johndoe@example.com",
+        "password": "password123",
+        "created_at": "2022-01-01T12:00:00Z"
+    },
+    {
+        "id": 2,
+        "username": "janedoe",
+        "email": "janedoe@example.com",
+        "password": "securepassword456",
+        "created_at": "2022-01-02T12:00:00Z"
+    },
+    {
+        "id": 3,
+        "username": "jimmy",
+        "email": "jimmy@example.com",
+        "password": "jimmypassword789",
+        "created_at": "2022-01-03T12:00:00Z"
+    },
+    {
+        "id": 4,
+        "username": "sarah",
+        "email": "sarah@example.com",
+        "password": "sarahsecretpassword",
+        "created_at": "2022-01-04T12:00:00Z"
+    },
+    {
+        "id": 5,
+        "username": "tom",
+        "email": "tom@example.com",
+        "password": "tomssecretpassword",
+        "created_at": "2022-01-05T12:00:00Z"
+    }
+]
+}

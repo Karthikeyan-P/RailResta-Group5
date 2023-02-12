@@ -1,0 +1,69 @@
+h1,
+#subtitle {
+    text-align: center;
+}
+
+.logos {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    margin: 0 auto;
+}
+
+.logos img {
+    height: 50px;
+}
+
+
+#seperator {
+    position: relative;
+    display: inline-block;
+    margin: 40px 50%;
+}
+
+#seperator:before {
+    content: "______________________________________";
+    color: gray;
+    font-weight: 1;
+    position: absolute;
+    top: -5px;
+    left: -260px;
+}
+
+#seperator:after {
+    content: "______________________________________";
+    color: gray;
+    font-weight: 1;
+    position: absolute;
+    top: -5px;
+    right: -260px;
+}
+
+.login-form {
+    height: 150px;
+    width: 35%;
+    margin: 0 auto;
+}
+
+input {
+    width: 80%;
+    height: 30px;
+    padding-left: 10px;
+    margin: 8px 60px;
+    border-radius: 20px;
+}
+
+.login-form button {
+    margin: 10px 230px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.login-form button:hover{
+    cursor: pointer;
+    background-color: rgb(255, 136, 0);
+    color: black;
+}

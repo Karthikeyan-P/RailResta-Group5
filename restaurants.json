@@ -1,0 +1,112 @@
+ {
+    "restaurants" : [
+    {
+        "id": 1,
+        "name": "Tandoori Nights",
+        "image": "images/TandooriNights.jpg",
+        "cuisine": "Indian",
+        "location": "B-8, Hauz Khas Village, New Delhi, Delhi 110016",
+        "rating": 4.3,
+        "reviews": [
+            {
+                "author": "Michael Patel",
+                "text": "This place has the best tandoori chicken I've ever had. The naan was also fantastic."
+            },
+            {
+                "author": "Priya Singh",
+                "text": "The biryani was delicious and the service was excellent. I highly recommend this restaurant."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Rasoi Indian Cuisine",
+        "image": "images/rasoi.jpg",
+        "cuisine": "Indian",
+        "location": "E-56, Kalkaji, New Delhi, Delhi 110019",
+        "rating": 4.1,
+        "reviews": [
+            {
+                "author": "Amit Shah",
+                "text": "The butter chicken was amazing and the garlic naan was so fresh. Will definitely come back here."
+            },
+            {
+                "author": "Deepika Singh",
+                "text": "I loved the variety of vegetarian options available. The palak paneer was my favorite."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "The Spice Room",
+        "image": "images/spice.jpg",
+        "cuisine": "Italian",
+        "location": "D-12, Greater Kailash 2, New Delhi, Delhi 110048",
+        "rating": 4.5,
+        "reviews": [
+            {
+                "author": "Rajesh Mehta",
+                "text": "This is my new favorite Indian restaurant. The food was top-notch and the atmosphere was perfect."
+            },
+            {
+                "author": "Sonia Gupta",
+                "text": "I loved the lamb rogan josh and the aloo gobi. The portions were generous and the staff was very friendly."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Dakshin South Indian Cuisine",
+        "image": "images/dakshin.jpg",
+        "cuisine": "Indian",
+        "location": "12, Kasturba Nagar, Adyar, Chennai, Tamil Nadu 600020",
+        "rating": 4.2,
+        "reviews": [
+            {
+                "author": "Suresh Kumar",
+                "text": "The idlis were so fluffy and the sambar was delicious. Will definitely come back here."
+            },
+            {
+                "author": "Priya Raj",
+                "text": "The masala dosa was amazing and the chutneys were the perfect accompaniment."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Annalakshmi Restaurant",
+        "image": "images/annalakshmi.jpg",
+        "cuisine": "Indian",
+        "location": "No.19, 4th Main Road, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+        "rating": 4.4,
+        "reviews": [
+            {
+                "author": "Ramesh Patel",
+                "text": "The food was fantastic and the atmosphere was very peaceful. Highly recommend this restaurant."
+            },
+            {
+                "author": "Meena Kumar",
+                "text": "The naan was so soft and the butter chicken was so flavorful. Will definitely come back here."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Saravana Bhavan",
+        "image": "images/saravana2.png",
+        "cuisine": "South-Indian",
+        "location": "35, Usman Road, T. Nagar, Chennai, Tamil Nadu 600017",
+        "rating": 4.3,
+        "reviews": [
+            {
+                "author": "Vijay Singh",
+                "text": "The food was delicious and the portions were generous. The staff was also very friendly."
+            },
+            {
+                "author": "Sarika Sharma",
+                "text": "I loved the masala uttapam and the sambar was so flavorful. Will definitely come back here."
+            }
+        ]
+    }
+]
+ }

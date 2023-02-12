@@ -1,0 +1,72 @@
+.title {
+    text-align: center;
+    color: rgb(125, 125, 240);
+}
+
+.registration-form {
+    height: 400px;
+    width: 35%;
+    margin: 50px auto;
+}
+
+.form-title {
+    color: rgb(255, 99, 99);
+}
+
+.form-content {
+    margin-left: 15px;
+}
+
+.customer-info {
+    margin: 15px;
+    margin-left: 40px;
+}
+
+label {
+    display: block;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+}
+
+#address {
+    height: 70px;
+}
+
+#btn {
+    width: 70px;
+    height: 25px;
+    border-radius: 7px;
+    border: 5px;
+    margin: 15px 50%;
+    background-color: rgb(255, 99, 99);
+    color: aliceblue;
+}
+
+#pwd-criteria ul {
+    list-style-type: none;
+    padding-left: 2px;
+    margin: 5px 0;
+    font-size: 6px;
+}
+
+#pwd-criteria ul li{
+    font-size: 10px;
+    color: rgb(9, 138, 9)
+}
+
+.errorMsg{
+    font-size: 15px;
+    padding-left: 2px;
+    margin: 5px 0;
+    color: rgb(172, 13, 13);
+}
+
+.successMsg{
+    font-size: 15px;
+    padding-left: 2px;
+    margin: 5px 0;
+    color: rgb(64, 64, 241);
+}
